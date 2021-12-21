@@ -1,3 +1,6 @@
+Part 2 Mapping components: (Lecture)[https://scrimba.com/learn/learnreact/mapping-components-co20249b69609b9df5473acc7]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
